@@ -1,0 +1,251 @@
+.main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: white;
+    align-items: center;
+    height: 80px;
+}
+#s{
+    height:30px;
+    width: 350px;
+}
+i{
+    padding-left: 10px;
+}
+input{
+    border: 0px;
+    background-color: lightgrey;
+    border-radius: 10px;
+    font-size: 18px;
+    
+}
+.use{
+    background-color:lightgray;
+    border-radius: 10px;
+}
+.lcb{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.cart,.login,.bs{
+    padding-left: 10px;
+    padding-right: 30px;
+    
+}
+.cart{
+    height: 20px;
+}
+i{
+    font-size: 25px;
+    padding-right: 8px;
+}
+body{
+    background-color:rgb(241, 243, 246);
+}
+.logo img{
+    margin-top: 15px;
+}
+img{
+    height: 50px;
+}
+.main2 img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-top: 20px;
+
+}
+.main2{
+    
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        margin-top: 8px;
+        background-color: white;
+        height: 170px;
+}
+.img1,.img2,.img3,.img4,.img5,.img6,.img7,.img8{
+    display:flex;
+    flex-direction: column;
+}
+.footer{
+    background-color: black;
+}
+ul{
+    color: white;
+    list-style: none;
+}
+h3{
+    color: gainsboro;
+}
+.c1{
+    display: flex;
+    flex-direction: column;
+}
+.ayush{
+    height: 200px;
+    width: 100%;
+}
+.main3{
+    margin-top: 8px;
+    background-color: white;
+}
+.offer{
+    height: 100px;
+    width: 100%;
+    background-color: white;
+}
+.main4,.ch{
+    margin-top: 0px;
+}
+.img img{
+    height: 150px;
+    width: 100%;
+    margin-top: 0px;
+    }
+.row1 img{
+    flex-direction:row;
+    height: 250px;
+    width: 395px;
+}
+.cat{
+    background-color: white;
+    margin-top: 0px;
+}
+.off{
+    background-color: white;
+}
+.img{
+    margin-top: 8px;
+}
+.super img{
+    height: 180px;
+    width: 100%;
+}
+.dhamaka{
+    background-color: white;
+}
+.list1 img , .list2 img{
+    height: 140px;
+    width: 295px;
+    justify-content: space-between;
+}
+.p1,.p2,.p3,.p4{
+    border: 1px solid whitesmoke;
+    height: 420px;
+    width: 400px;
+}
+.products{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+}
+.products img{
+    height: 320px;
+    padding-top: 30px;
+}
+.p2 img{
+    padding-left: 7px;
+    padding-right: 8px;
+    width: 300px;
+}
+.tittle{
+    color: grey ;
+    font-size: 14px; 
+}
+.ofa{
+    color: rgb(12, 185, 12);
+    font-size: 12px;
+}
+.ol{
+    text-decoration: line-through;
+    color: grey;
+}
+.rs{
+    font-size: 18px;
+    color: black;
+}
+.tsh{
+    width: 285px;
+}
+.slip{
+    width: 250px;
+}
+.desc{
+    background-color: white;
+    padding-left: 20px;
+}
+h2{
+    font-size: 15px;
+    color: rgb(9, 9, 9);
+}
+h4{
+    color: gray;
+}
+p{
+    color: grey;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+}
+.mail{
+    margin-left: 70px;
+}
+.add{
+    margin-left: 35px;
+}
+.ft{
+    color: grey;
+}
+.c{
+    color: white;
+}
+footer{
+    background-color: black;
+}
+hr{
+    border: 1px solid lightgrey;
+}
+.fa-lightfa-shop{
+    color: gold;
+    font-size: 20px;
+}
+.s{
+    color: white;
+}
+#bas{
+    font-size: 10px;
+    color: gold;
+}
+.bottom{
+    background-color: black;
+    margin-top: 0px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.gold{
+    color: white;
+    font-size: 13px;
+}
+#help,#copy{
+    font-size: 10px;
+    color: gold;
+}
+.card{
+    width: 400px;
+}
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    } 
+  }
+  @media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
